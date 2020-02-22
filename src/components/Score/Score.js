@@ -1,6 +1,6 @@
 import React from "react";
 import "./Score.css";
-
+import BannerImage from '../images/_final-fantasy-banner.png';
 
 function Score(props) {
     return (
@@ -8,12 +8,14 @@ function Score(props) {
         <div>
             <nav className='nav'>
                 <h2>
-                <span className='navBar-title'>Clicky Game</span>
-                <span className='navBar-begin'> {props.message}</span>
-                <span className='navBar-score'>Score: {props.score} | Top Score: {props.topScore}</span>
+                <p className='navBar-title'><b>Final Fantasy - Clicky Game</b></p>
+                <p className='navBar-score'>Score: {props.score} | Top Score: {props.topScore}</p>
+                <p className='navBar-message'>{props.message} </p>
                 </h2>
+                <br></br>
+                <img id="banner" src={BannerImage} alt=""/>   
             </nav>
-
+         
         </div>
 
      

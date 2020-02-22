@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "image": "./images/Cecil_FF4.jpg"
+    },
+    {
+        "id": 2,
+        "image": "./images/Cloud-FF07.jpg"
+    },
+
+    {
+        "id": 3,
+        "image": "./images/Kefka-FF06.jpg"
+    },
+
+    {
+        "id": 4,
+        "image": "./images/Lightning-FF13.jpg"
+    },
+
+    {
+        "id": 5,
+        "image": "./images/Noctis-FF15.jpg"
+    },
+
+    {
+        "id": 6,
+        "image": "./images/Sephiroth-FF07.jpg"
+    },
+
+    {
+        "id": 7,
+        "image": "./images/Squall-FF10.jpg"
+    },
+
+    {
+        "id": 8,
+        "image": "./images/Terra-FF06.jpg"
+    },
+    {
+        "id": 9,
+        "image": "./images/Tidus-FF10.jpg"
+    },
+
+    {
+        "id": 10,
+        "image": "./images/Vann-FF12.jpg"
+    },
+
+    {
+        "id": 11,
+        "image": "./images/Yuna-FF10.jpg"
+    },
+
+    {
+        "id": 12,
+        "image": "./images/Zidane-FF09.jpg"
+    }
+]
