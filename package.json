@@ -1,5 +1,6 @@
 {
   "name": "clickity_clack",
+  "homepage": "https://github.com/LazaroPerez0823/Clickity_Clack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,6 +34,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.8.3"
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "gh-pages": "^2.2.0"
   }
 }
