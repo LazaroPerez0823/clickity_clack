@@ -13,9 +13,10 @@ function Score(props) {
                 <p className='navBar-message'>{props.message} </p>
                 </h2>
                 <br></br>
-                <img id="banner" src={BannerImage} alt=""/>   
+                <img id="banner" src={BannerImage} alt=""/>
+                    <br></br><br></br> <p></p>   
             </nav>
-         
+        
         </div>
 
      

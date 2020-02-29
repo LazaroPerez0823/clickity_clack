@@ -7,12 +7,16 @@
     position: fixed;
     z-index: 10;
     /* margin-bottom: 20px; */
-  margin-left: 10px;
+  /* margin-left: 10px; */
+  /* margin-bottom: 100px !important; */
+  width: 100%;
+zoom: .8;
   } 
 
   .navBar-title {
 /* float: left; */
 margin-right: 10px;
+/* margin-bottom: 10px; */
   }
 
 
@@ -27,4 +31,9 @@ margin-right: 10px;
     /* padding-left: 10px; */
     color: brown;
     font-weight: 900; 
+    
+   }
+
+   #banner {
+     max-height: 120px;
    }
