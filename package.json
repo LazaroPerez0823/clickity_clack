@@ -1,6 +1,6 @@
 {
   "name": "clickity_clack",
-  "homepage": "https://github.com/LazaroPerez0823/clickity_clack",
+  "homepage": "http://lazaroperez0823.github.io/clickity_clack/",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000/",
